@@ -1,0 +1,263 @@
+body{
+    background-color: rgb(212, 205, 205);
+}
+.container{
+ background-color: rgb(252, 248, 248); 
+ position: absolute; 
+ width: 90%; 
+ padding-right: 50px;
+ margin-left: 90px;
+}
+
+#carra{
+    width: 8%;
+    margin-right: 400px;
+}
+.buttons{
+    width:60%;
+    padding: 50px;
+    gap: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    color: black;
+}
+a{
+
+    color: black;
+    text-decoration: none;
+}
+.detail span{
+    border: 1px dotted;
+}
+.words{
+    width: 90%;
+    font-size: x-large;
+    height: 70%;
+    margin-right: 900px;
+    margin: 0 auto;
+}
+.detail{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+}
+.home{
+    display: flex;
+    margin-left: 300px;
+    width: 90%;
+    margin-top: 100px;
+    
+}
+#now{
+    width: 20%;
+    border-radius: 20px;
+    height: 80px;
+    background-color: black;
+    color: white;
+
+}
+img{
+    width: 120%;
+    float: right;
+    background-color: white;
+   margin-right: 300px;
+
+}
+
+#play{
+    /* width: 5%; */
+    font-size: 7px;
+    /* display: flex; */
+    float: right;
+    margin-top: 40px;
+    margin-right: 547px;
+
+
+}
+.numbers{
+    /* float: right; */
+    display: flex;
+    gap: 90px;
+    margin: 0 auto;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.name{
+    gap: 1px;
+    align-self: center;
+    margin-left: 350px;
+    display: flex;
+    width: 4%;
+    
+}
+.best{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.caret{
+    float: right;
+}
+.pot{
+    display: flex;
+    width: 1%;
+    margin-top: 50px;
+    gap: 220px;
+    margin-left: 300px;
+    height:1% ;
+  
+
+}
+.trend{
+    width: 120%;
+}
+.peg{
+    width: 90px; 
+}
+.c2{
+    width: 130px;
+}
+.c3{
+    width: 130px;
+}
+.c4{
+    width: 130px;
+}
+
+.price{
+    display: flex;
+    gap: 180px;
+}
+.flower{
+    width: 20%;
+    text-align: justify;
+}
+.set{
+    display: flex;
+    margin-left: 700px;
+    width: 700px;
+}
+#submit{
+    border-radius: 20px;
+    width: 30%;
+    height: 10%;
+}
+.feather{
+    display: flex;
+    width: 90%;
+    margin-left: 300px;
+    margin-top: 70px;
+}
+.pieces{
+    width: 60%;
+}
+#solid{
+
+    width: 25%;
+    border-radius: 20px;
+    height: 10%;
+}
+#book{
+    width: 40%;
+    margin-left: 300px;
+    float: left;
+    margin-top: 80px;
+    
+}
+.wind{
+    font-size: 20px;
+}
+.cat{
+    width: 9%;
+    margin-top: 50px;
+    /* float:right; */
+    
+    
+}
+.Offer{
+    display: flex;
+    width: 10%;
+    margin-left: 660PX;
+    margin-top: 90px;
+    gap: 160px;
+}
+.decor{
+    width: 20%;
+}
+.day{
+    width: 20%;
+    margin-bottom: 50px;
+    
+    
+}
+.card{
+    width: 20%;
+}
+.buy{
+    margin-left: 700px;
+    
+}
+.track{
+    width: 20%;
+}
+.last{
+    display: flex;
+    margin-right: 450px;
+}
+#person{
+    width: 10%;
+    
+}
+#mirror{
+    width: 40%;
+    margin-left: 700px;
+    margin-top: 50px;
+    display: flex;
+}
+.common{
+    font-size: 20px;
+    margin-top: 30px;
+}
+.man{
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.review{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 400px;
+
+
+}
+.customer{
+    display: flex;
+    width: 70%;
+    gap: 15%;
+    margin-top: 100px;
+    margin-left: 320px;
+}
+.we1{
+    width: 120px;
+}
+.we2{
+    width: 120px;
+}
+.we3{
+    width: 120px;
+}
+.we4{
+    width: 120px;
+}
+.form{
+    display: flex;
+    gap: 120px;
+    margin-left: 320px;
+    width: 90%;
+}
+.right{
+    display: flex;
+    gap: 600px;
+    margin-left: 330px;
+    margin-top: 80px;
+}
