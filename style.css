@@ -4,7 +4,7 @@ body{
 .container{
  background-color: rgb(252, 248, 248); 
  position: absolute; 
- width: 90%; 
+ width: 80%; 
  padding-right: 50px;
  margin-left: 90px;
 }
@@ -75,7 +75,6 @@ img{
 
 }
 .numbers{
-    /* float: right; */
     display: flex;
     gap: 90px;
     margin: 0 auto;
@@ -83,11 +82,10 @@ img{
     margin-top: 50px;
 }
 .name{
-    gap: 1px;
-    align-self: center;
     margin-left: 350px;
     display: flex;
-    width: 4%;
+    width: 50px;
+    height: 60px;
     
 }
 .best{
@@ -100,9 +98,9 @@ img{
 .pot{
     display: flex;
     width: 1%;
-    margin-top: 50px;
-    gap: 220px;
-    margin-left: 300px;
+    margin-top: 90px;
+    gap: 210px;
+    margin-left: 270px;
     height:1% ;
   
 
@@ -204,7 +202,7 @@ img{
     margin-right: 450px;
 }
 #person{
-    width: 10%;
+    width: 20g%;
     
 }
 #mirror{
@@ -217,11 +215,9 @@ img{
     font-size: 20px;
     margin-top: 30px;
 }
-.man{
-    display: flex;
-    margin-top: 100px;
 
-}
+
+
 
 .review{
     text-align: center;
